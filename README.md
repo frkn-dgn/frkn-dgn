@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frkn-dgn&label=Profile%20views&color=0e75b6&style=flat" alt="frkn-dgn" /> </p>
 
-- 🔭 I’m currently working on **Unity, Unreal Engine**
+- 🔭 I’m currently working on **Html, Css, JavaScript, Bootstrap, React, Php**
 
 - 🌱 I’m currently learning **C#, Unity, Game Development**
 
