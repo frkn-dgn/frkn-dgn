@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Html, Css, JavaScript, Bootstrap, React, Php**
 
-- 🌱 I’m currently learning **C#, Unity, Game Development**
+- 🌱 I’m currently learning **JavaScript, React, Front-end Development**
 
 - 📫 How to reach me **furkan.dogan4238@gmail.com**
 
