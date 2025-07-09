@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Furkan</h1>
-<h3 align="center">Computer Engineering Student at Fırat University</h3>
+<h3 align="center">Computer Engineering </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frkn-dgn&label=Profile%20views&color=0e75b6&style=flat" alt="frkn-dgn" /> </p>
-
-- 🔭 I’m currently working on **Html, Css, JavaScript, Bootstrap, React, Php**
-
-- 🌱 I’m currently learning **JavaScript, React, Front-end Development**
 
 - 📫 How to reach me **furkan.dogan4238@gmail.com**
 
