@@ -34,5 +34,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=frkn-dgn&show_icons=true&locale=en" alt="frkn-dgn" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=frkn-dgn&" alt="frkn-dgn" /></p>
 
