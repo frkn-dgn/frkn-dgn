@@ -20,7 +20,7 @@ Passionate about improving software quality through testing and automation.
 
 ### 🔗 Connect With Me
 
-<a href="[https://linkedin.com](https://www.linkedin.com/in/frkndgn/)">
+<a href="https://www.linkedin.com/in/frkndgn/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
