@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Furkan</h1>
-<h3 align="center">Computer Engineering </h3>
+<h3 align="center">Software QA Engineer | Test Automation </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frkn-dgn&label=Profile%20views&color=0e75b6&style=flat" alt="frkn-dgn" /> </p>
 
