@@ -10,10 +10,10 @@ Passionate about improving software quality through testing and automation.
 ### 👨‍💻 About Me
 
 * 🎯 Focused on **Software Testing & Test Automation**
-* 💻 Working with **Java, Selenium, Playwright**
+* 💻 Working with **Java, Selenium**
 * 🧪 Interested in **Automation Testing, API Testing, CI/CD**
 * 📊 Experience with **SQL, Jira, Git**
-* 🌍 Based in **Turkey**
+* 🌍 Based in **Ankara, Turkey**
 * 📫 Reach me at: **[furkan.dogan4238@gmail.com](mailto:furkan.dogan4238@gmail.com)**
 
 ---
